@@ -1,1 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap');
 
+body {
+    font-family: "Agdasima", sans-serif;
+    background-color:rgb(188, 252, 255);
+  }
+  
+  h1 {
+    text-align: center;
+    padding: 10px;
+    margin: 4%;
+    border: 5px dotted black;
+    border-radius: 5px;
+    font-size: 50px;
+      text-shadow: 3px 4px #0cfeb6;
+    
+  }
+
+  h2 {
+font-size: 30px;
+  }
+
+  
+
+
+
+
+
+  .centered {
+text-align: center;
+margin: auto;
+  }
+
+
+
+
+   
